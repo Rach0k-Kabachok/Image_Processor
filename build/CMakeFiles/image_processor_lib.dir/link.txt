@@ -1,0 +1,2 @@
+/usr/bin/ar qc libimage_processor_lib.a CMakeFiles/image_processor_lib.dir/src/Filters.cpp.o CMakeFiles/image_processor_lib.dir/src/PictureInfo.cpp.o CMakeFiles/image_processor_lib.dir/src/image_processor.cpp.o CMakeFiles/image_processor_lib.dir/src/input_control/ControlParameters.cpp.o CMakeFiles/image_processor_lib.dir/src/input_control/Input_OutputProcessing.cpp.o
+/usr/bin/ranlib libimage_processor_lib.a

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/unit_tests.dir/test_script/unit_tests.cpp.o -o unit_tests  libimage_processor_lib.a lib/libgtest_main.a lib/libgtest.a 
